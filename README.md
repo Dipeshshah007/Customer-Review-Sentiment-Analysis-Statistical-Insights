@@ -49,11 +49,11 @@ SciPy
 Scikit-learn (Label Encoding)
 
 ▶️ How to Run This Project
-# Clone the repository: 
+Clone the repository: 
 git clone https://github.com/yourusername/customer-review-analysis.git
 
-# Install dependencies: 
+Install dependencies: 
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
-# Run the notebook: 
+Run the notebook: 
 jupyter notebook Customer_Review_Sentiment_Analysis.ipynb
